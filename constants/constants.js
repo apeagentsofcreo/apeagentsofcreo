@@ -211,24 +211,22 @@ export const team = [
 export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
-    question: "What is Octo Space?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
-    `,
+    question: "What's so unique about this collection?",
+    answer: `Ape Agents of Creo is the very first NFT collection that stores it metadata
+              on Tnftcoin blockchain. Go to www.truenft.Tech to learn more. As NFT collections
+              go, this means the collection is a first of a kind and therefore highly colletible`,
   },
   {
-    question: "How much do they Cost?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
-    `,
+    question: "What else do I get for my money?",
+    answer: `Everyone who buys an Ape Agent will get VIP access to www.creoverse.org members area
+    where they can claim 1000 Creoverse Pounds. At a later stage, there will be another airdrop of 
+    Tnftcoin for all buyers too.`,
   },
   {
-    question: "Can I buy an NFT from Opensea?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
-    `,
+    question: "Does the collection have further utility?",
+    answer: `Yes, there is much planned for Ape Agents. The first is that 50% of the net total raised
+    by the public mint will be donated to www.creoverse.org in order to provide a kickstart fund. Holders of 
+    Ape Agents will all get a say in how the fund is used and what developements are paid for by the fund. Most of 
+    what happens next will be determined by the community`,
   },
 ]
