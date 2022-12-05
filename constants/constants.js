@@ -201,8 +201,8 @@ export const team = [
   {
     url: "https://lh3.googleusercontent.com/aviADDqmYN5X979x0bO1Tg7lLLgpIRwp5B-M2GRmChTdm8N5V_vwXX0kS8bTeuATkHlPDsHyeVAgiAhRhHCwzThqTCvn_80r9VNq9A=w600",
     alt: "user4",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    username: "@5ha2s6",
+    userLink: "https://twitter.com/5ha2s6",
   },
   {
     url: "https://lh3.googleusercontent.com/sCYqk7lTMznAOD8Mjlzce_YOw8QR23ODIspxz2X6_gSULHb0QbDapw2brHd2Gf-O9voLXUgSwGWQ7BAsVtsL4tgw9w90ybQBoeY8SQ=w600",
