@@ -1,4 +1,4 @@
-import "../styles/globals.css"
+ import "../styles/globals.css"
 import type { AppProps } from "next/app"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
@@ -8,8 +8,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title="Octo Space | NFT Project"
-        description="Description of Octo Space NFT Project."
+        title="Ape Agents of Creo | Game Changing NFTs"
+        description="Ape Agents of Creo by True Nft Technologies"
         // canonical="https://www.canonical.ie/"
         // twitter={{
         //   handle: "@handle",

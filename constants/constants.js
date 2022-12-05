@@ -36,12 +36,10 @@ export const permissions = "2022 Creoverse.org"
 
 // ---HERO TEXT---
 export const heading1 = "Ape Agents of Creo"
-export const heading2 = "Founders of Creoverse.  "
-export const description = `
-  . A deliberate  manifestation of 
-  all things Benefits of 
-  11500 Ape Agents. 
-  `
+export const heading2 = "Founders of Creoverse"
+export const description = `A First Edition Collection with True NFT Technology.
+                            Feature Rich Roadmap. Rewards, Airdrops, VIP Passes, Giveaways and more.
+                            Kickstart Fund Raising for Creoverse and HIGHLY collectible.`
 export const btnText1 = "Join Discord"
 export const btnText2 = "Mint Your Agent"
 
