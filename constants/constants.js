@@ -182,40 +182,29 @@ export const teamHeading = "Team"
 export const team = [
   {
     url: "/images/5ha2s6512x512.png",
-    alt: "user1",
+    alt: "5ha2s6",
     username: "@5ha2s6",
     userLink: "https://twitter.com/5ha2s6",
   },
   {
-    url: "https://lh3.googleusercontent.com/SjjTt1xeqjYXIPXOGDE5JJuMBFB7EXnwQTxXE_zQE6VnsrJBOtC0kVF254LUHV6RFIH9gyLw0huL3BFQ10N8VWolN_knN0E3qU3z3Q=w600",
-    alt: "user2",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    url: "/images/pic13",
+    alt: "bob",
+    username: "#",
+    userLink: "#",
   },
   {
-    url: "https://lh3.googleusercontent.com/yHkmkqhp_8pRtrp0UnvEJqjMNn-9a9d0xdnuOY-eprnqNG9m2BVJfvd-6tTUWb6_MdqfUFP5FFy4OGqTq9NTHpYybemg5801LKH9eA=w600",
-    alt: "user3",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    url: "/images/pic14.png",
+    alt: "dave",
+    username: "#",
+    userLink: "#",
   },
   {
-    url: "https://lh3.googleusercontent.com/aviADDqmYN5X979x0bO1Tg7lLLgpIRwp5B-M2GRmChTdm8N5V_vwXX0kS8bTeuATkHlPDsHyeVAgiAhRhHCwzThqTCvn_80r9VNq9A=w600",
-    alt: "user4",
-    username: "@5ha2s6",
-    userLink: "https://twitter.com/5ha2s6",
+    url: "/images/pic15.png",
+    alt: "jane",
+    username: "#",
+    userLink: "#",
   },
-  {
-    url: "https://lh3.googleusercontent.com/sCYqk7lTMznAOD8Mjlzce_YOw8QR23ODIspxz2X6_gSULHb0QbDapw2brHd2Gf-O9voLXUgSwGWQ7BAsVtsL4tgw9w90ybQBoeY8SQ=w600",
-    alt: "user5",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
-  },
-  {
-    url: "https://lh3.googleusercontent.com/6IYRsI8QSUQ0dhn11OVmyA0xMZlQDVLM6ORMZL-DVNTquWkSKuw2Xombc3gUJ-bvnQ0r7WJ3TWky-LWsRXO1k8lnOIy1ttt4Sx_r5Y8=w600",
-    alt: "user6",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
-  },
+  
 ]
 
 // ---FAQ---
