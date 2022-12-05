@@ -214,7 +214,7 @@ export const faq = [
     question: "What's so unique about this collection?",
     answer: `Ape Agents of Creo is the very first NFT collection that stores it metadata
               on Tnftcoin blockchain. Go to www.truenft.Tech to learn more. As NFT collections
-              go, this means the collection is a first of a kind and therefore highly colletible`,
+              go, this means the collection is a first of a kind and therefore highly collectible`,
   },
   {
     question: "What else do I get for my money?",
