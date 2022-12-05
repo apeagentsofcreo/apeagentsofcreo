@@ -187,7 +187,7 @@ export const team = [
     userLink: "https://twitter.com/5ha2s6",
   },
   {
-    url: "/images/pic13",
+    url: "/images/pic13.png",
     alt: "bob",
     username: "#",
     userLink: "#",
