@@ -181,10 +181,10 @@ export const roadmapSteps = [
 export const teamHeading = "Team"
 export const team = [
   {
-    url: "https://lh3.googleusercontent.com/x8bnseXn89ubTHYxH_tqCni8pukbQGdsAdV-k5sudEFvukpeBxtzMrOSUR00x6lO_Bq5mlgY0mNHvwXw8iSn6ZUBEOCKvUMTzjsXng=w600",
+    url: "/images/5ha2s6512x512.png",
     alt: "user1",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    username: "@5ha2s6",
+    userLink: "https://twitter.com/5ha2s6",
   },
   {
     url: "https://lh3.googleusercontent.com/SjjTt1xeqjYXIPXOGDE5JJuMBFB7EXnwQTxXE_zQE6VnsrJBOtC0kVF254LUHV6RFIH9gyLw0huL3BFQ10N8VWolN_knN0E3qU3z3Q=w600",
