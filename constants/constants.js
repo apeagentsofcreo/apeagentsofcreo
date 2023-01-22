@@ -45,26 +45,25 @@ export const btnText2 = "Mint Your Agent"
 
 export const topCard = {
   name: "#8888",
-  price: "2.48 ETH",
+  price: "25 SOL",
   btnText: "Buy Now",
   profile:
     "/images/pic1.png",
   image:
     "/images/pic1.png",
-  btnUrl: "https://opensea.io/",
+  btnUrl: "https://marketplace.truenft.tech/",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }
 
 export const backCard = {
   name: "#8258",
-  price: "1.48 ETH",
+  price: "30 SOL",
   btnText: "Buy Now",
-  profile:
-    "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
+  profile:"/images/pic2.png",
   image:
     "/images/pic2.png",
-  btnUrl: "https://opensea.io/",
+  btnUrl: "https://marketplace.truenft.tech/",
   alt: "Back Card",
   profileAlt: "My Profile 2",
 }
