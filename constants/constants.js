@@ -19,7 +19,7 @@ export const mobileMenuHeading = "Useful Links:"
 
 export const discordUrl = "https://discord.com/channels/951377318272700456/1064627646270550138"
 export const instagramUrl = "#"
-export const twitterUrl = "https://twitter.com/TrueNFT_Tech"
+export const twitterUrl = "https://twitter.com/ApeAgentsOfCreo"
 export const openSeaUrl = "#"
 
 // ---NAVBAR---
