@@ -17,7 +17,7 @@ export const logo = "/images/agentLogo.png"
 export const logoAlt = "ApeAgentsLogo"
 export const mobileMenuHeading = "Useful Links:"
 
-export const discordUrl = "#"
+export const discordUrl = "https://discord.com/channels/951377318272700456/1064627646270550138"
 export const instagramUrl = "#"
 export const twitterUrl = "#"
 export const openSeaUrl = "#"
@@ -144,31 +144,36 @@ export const roadmapSteps = [
     to bring a new light to NFTs and Digital Assets.`,
   },
   {
-    position: "VERY SOON",
+    position: "NOW",
     title: "Discord Activities Begin",
     description: `Join the Ape Agents of Creo Discord Server. Everything you wanted to know and can now ask. Help build the community and share
     your ideas. The end goal is to create a community driven decentralised opensource web3 focused metaverse. Anyone and everyone can participate.`,
   },
   {
-    position: "IN 3 WEEKS",
+    position: "14th Feb",
     title: "Public Mint Opens",
     description: `The public mint will start and everyone will be able to mint an Agent or 3. No pre-sale, whitelists or special treatment for anyone.
     Everyone will have the same chances to mint a rare or not so rare NFT`,
   },
   {
-    position: "END DEC",
-    title: "Public Mint End - 50% Donation to CREOVERSE.ORG",
+    position: "TBA",
+    title: "Public Mint End - Donation to CREOVERSE.ORG",
     description: `All Ape Agents are revealed. If you Minted some Ape Agents
-    they'll suddenly change into the real thing and the fun begins. 50% of the net sales will be deposited in a designated wallet. Rarity 
-    Information, Graphs and Other Details published`,
+    they'll suddenly change into the real thing and the fun begins. A large % of the net sales will be deposited in a designated wallet for the 
+    purpose of kickstarting creoverse.org`,
   },
   {
-    position: "END DEC EARLY JAN",
+   position: "TBA",
+   title:  "Rarity Information and Sales Statistics Released",
+   description: "As the title suggests. A comprehensive report of all Ape Agents showing rarity etc will be published.",
+  }, 
+  {
+    position: "TBA",
     title: "Ape Agent 1st Holders Air Drop",
-    description: `All Ape Agent holders will receive an airdrop of 1000 Creoverse Pounds.`,
+    description: `All Ape Agent holders will receive an airdrop of 1000$ in Creoverse Tokens.`,
   },
   {
-    position: "JAN 2023",
+    position: "TBA",
     title: "TNFTCoin Airdrop",
     description: `A second round of rewards for those who helped get the project this far. Ape Agents holders are invited
     to join True NFT Tech Discord where they can find out how to get the TNFTCoin wallet and then request another, YES another 
