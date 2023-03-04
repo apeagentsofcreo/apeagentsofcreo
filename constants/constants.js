@@ -37,7 +37,7 @@ export const permissions = "2022 Creoverse.org"
 // ---HERO TEXT---
 export const heading1 = "Ape Agents of Creo"
 export const heading2 = "Founders of Creoverse"
-export const description = `A First Edition Collection with True NFT Technology.
+export const description = `The 1st Edition Collection showcasing True NFT Technology.
                             Feature Rich Roadmap. Rewards, Airdrops, VIP Passes, Giveaways and more.
                             Kickstart Fund Raising for Creoverse and HIGHLY collectible.`
 export const btnText1 = "Join Discord"
@@ -113,7 +113,7 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: " >>> 11,500 Ape Agents <<<",
+    title: " >>> 10,000 Ape Agents <<<",
     description: `A Highly Collectible Historic 1st with REAL PURPOSE, MINT TIME BENEFITS. ON-GOING EXTRAS, GIVEAWAYS, HOLDER PRIVILAGES & MORE.
     Unleashing TRUENFT.TECH & CREOVERSE.ORG`,
     image:
@@ -150,9 +150,9 @@ export const roadmapSteps = [
     your ideas. The end goal is to create a community driven decentralised opensource web3 focused metaverse. Anyone and everyone can participate.`,
   },
   {
-    position: "14th Feb",
-    title: "Public Mint Opens",
-    description: `The public mint will start and everyone will be able to mint an Agent or 3. No pre-sale, whitelists or special treatment for anyone.
+    position: '4th March',
+    title: 'Whitelist Minting begins.',
+    description: `As a thank yu to all those who assistedThe public mint will start and everyone will be able to mint an Agent or 3. No pre-sale, whitelists or special treatment for anyone.
     Everyone will have the same chances to mint a rare or not so rare NFT`,
   },
   {
