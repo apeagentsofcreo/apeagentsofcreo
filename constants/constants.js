@@ -13,7 +13,7 @@
 */
 
 // ---GENERAL---
-export const logo = "/images/agentLogo.png"
+export const logo = "https://www.apeagentsofcreo/images/agentLogo.png"
 export const logoAlt = "ApeAgentsLogo"
 export const mobileMenuHeading = "Useful Links:"
 
