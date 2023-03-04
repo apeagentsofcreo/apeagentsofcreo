@@ -7,6 +7,7 @@ module.exports = {
 
   images: {
     domains: [
+      "apeagentsofcreo.com",
       "lh3.googleusercontent.com",
       "i.imgur.com",
       "ouch-cdn2.icons8.com",
