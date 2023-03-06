@@ -32,20 +32,20 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 Creoverse.org"
+export const permissions = "2023 Ape Agents"
 
 // ---HERO TEXT---
-export const heading1 = "Ape Agents of Creo"
-export const heading2 = "Founders of Creoverse"
-export const description = `The 1st Edition Collection showcasing True NFT Technology.
+export const heading1 = "Ape Agents"
+export const heading2 = "THE 1st COLLECTION ... "
+export const description = `Minted with True NFT Technology. Protecting your NFTs!!!
                             Feature Rich Roadmap. Rewards, Airdrops, VIP Passes, Giveaways and more.
-                            Kickstart Fund Raising for Creoverse and HIGHLY collectible.`
+                            Kickstart Fund Raising for Creoverse. HIGHLY collectible.`
 export const btnText1 = "Join Discord"
 export const btnText2 = "Mint Your Agent"
 
 export const topCard = {
-  name: "#8888",
-  price: "25 SOL",
+  name: "Floor Price",
+  price: "89 SOL",
   btnText: "Buy Now",
   profile:
     "/images/pic1.png",
@@ -57,8 +57,8 @@ export const topCard = {
 }
 
 export const backCard = {
-  name: "#8258",
-  price: "30 SOL",
+  name: "Floor Price",
+  price: "76 SOL",
   btnText: "Buy Now",
   profile:"/images/pic2.png",
   image:
@@ -113,19 +113,20 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: " >>> 10,000 Ape Agents <<<",
-    description: `A Highly Collectible Historic 1st with REAL PURPOSE, MINT TIME BENEFITS. ON-GOING EXTRAS, GIVEAWAYS, HOLDER PRIVILAGES & MORE.
-    Unleashing TRUENFT.TECH & CREOVERSE.ORG`,
+    title: "Ape Agents: Join The Club",
+    description: `THE 1st COLLECTION with TNFT TECHNOLOGY. Highly Collectible & Rewarding.
+    AIRDROPS, CHALLENGES, BONUSES, UPGRADES, ON-GOING , GIVEAWAYS, HOLDER PRIVILAGES & MORE TO COME.
+    In the SPIRIT of WEB3 and DECENTRALISATION`,
     image:
       "/images/agentLogo.png",
-    imageAlt: "1000+ FIgures Collection Image",
+    imageAlt: "Ape Agent 000",
   },
   {
     reversed: true,
     title: "RARITY & DISTRIBUTION INFORMATION",
-    description: `The MINT will be a HIDDEN mint. This means that nobody knows what has already been
-      minted or what is left. Buyers will receive their NFTs in the blind and on the mint completion
-      all will be revealed. The hash of every Ape Agent DNA will be available just before minting starts.
+    description: `The MINT will be a HIDDEN mint. Nobody will know what has already been
+      minted or what is left. Buyers will receive their NFTs ''in the blind''. On mint completion
+      all will be revealed automatically. The hash of the whole collection will be available just before minting starts.
       This ensures that the order of minting or the attributes of any Ape Agent cannot be changed once minting
       is opened.`,
     image:
@@ -145,22 +146,23 @@ export const roadmapSteps = [
   },
   {
     position: "NOW",
-    title: "Discord Activities Begin",
-    description: `Join the Ape Agents of Creo Discord Server. Everything you wanted to know and can now ask. Help build the community and share
-    your ideas. The end goal is to create a community driven decentralised opensource web3 focused metaverse. Anyone and everyone can participate.`,
+    title: "Discord Active",
+    description: `Join the Ape Agents Discord Server. Everything you wanted to know and can now ask. Help build the community and share
+    your ideas. The end goal is to create a community driven decentralised opensource web3 organisation focused on metaverse. 
+    Anyone and everyone can participate.`,
   },
   {
-    position: '4th March',
-    title: 'Whitelist Minting begins.',
-    description: `As a thank yu to all those who assistedThe public mint will start and everyone will be able to mint an Agent or 3. No pre-sale, whitelists or special treatment for anyone.
-    Everyone will have the same chances to mint a rare or not so rare NFT`,
+    position: '7th March',
+    title: 'The Countdown to Minting begins.',
+    description: `After a very long research and development effort by 5ha2s6, the collection and all the 
+    surrounding technology is available.`,
   },
   {
     position: "TBA",
-    title: "Public Mint End - Donation to CREOVERSE.ORG",
-    description: `All Ape Agents are revealed. If you Minted some Ape Agents
-    they'll suddenly change into the real thing and the fun begins. A large % of the net sales will be deposited in a designated wallet for the 
-    purpose of kickstarting creoverse.org`,
+    title: "Public Mint End - Chapter 1 The Revelation",
+    description: `All Ape Agents are automatically revealed in your wallet. If you Minted some Ape Agents
+    they'll suddenly change into the real thing and the fun begins. A generous % of the net sales will be deposited in a designated wallet for the 
+    purpose of kickstarting creoverse.org.`,
   },
   {
    position: "TBA",
@@ -169,15 +171,22 @@ export const roadmapSteps = [
   }, 
   {
     position: "TBA",
-    title: "Ape Agent 1st Holders Air Drop",
-    description: `All Ape Agent holders will receive an airdrop of 1000$ in Creoverse Tokens.`,
+    title: "Ape Agent Minters Air Drop",
+    description: `All Ape Agent buyers who minted one or more, will receive an airdrop of 1000 TNFT Tokens per Ape Agent minted.
+    Right now (06/03/2023) it is not known what the value will be however, we hope to have a listing on a major exchange very soon.`,
   },
   {
     position: "TBA",
-    title: "TNFTCoin Airdrop",
-    description: `A second round of rewards for those who helped get the project this far. Ape Agents holders are invited
-    to join True NFT Tech Discord where they can find out how to get the TNFTCoin wallet and then request another, YES another 
-    airdrop. This time its TNFTCoin. 1000 TNFT for each Ape Agent holder.`,
+    title: "Ape Agents Skills Assigned",
+    description: `Every Ape Agent will be assigned a skill set that'll automatically appear in the
+    Ape Agent traits. Skill sets will determine roles and abilities which will be used in later activities, challenges and games.
+    This will also demonstrate just how TNFT technology makes it so easy for everyone to update metadata where applicable.`,
+  },
+  {
+    position: "TBA",
+    title: "Ape Agents DAO Meet Up",
+    description: `This first online meet will be open to all Ape Agent holders. Together we will discuss what the 
+    first objectives of the DAO will be and how the funds as raised in the mint might be used.`
   },
 ]
 
