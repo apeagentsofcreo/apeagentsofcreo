@@ -7,7 +7,7 @@ module.exports = {
 
   images: {
     loader: 'akamai',
-    path: '',
+    path: '/',
     domains: [
       "www.apeagentsofcreo.com",
       "lh3.googleusercontent.com",
