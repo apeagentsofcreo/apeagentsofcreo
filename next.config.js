@@ -6,7 +6,8 @@ module.exports = {
   // ↓
 
   images: {
-    loader: undefined,
+    loader: imgix,
+    path:'',
   domains: [
       "www.apeagentsofcreo.com",
       "lh3.googleusercontent.com",
