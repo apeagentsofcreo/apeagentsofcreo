@@ -36,13 +36,12 @@ export const permissions = "2023 Ape Agents"
 
 // ---HERO TEXT---
 export const heading1 = "Ape Agents"
-export const heading2 = "The Very First Collection Powered and Released by True NFT Tech"
-export const description = `Highly collectible with a feature rich roadmap. rewards, airdrops, VIP passes, giveaways, holder priviledges
-                            and on-going activities. Ape Agents marks the beginning of decentralised Metadata`
+export const heading2 = "The Very First Collection Powered and Sponsered by True NFT Technology"
+export const description = "Highly collectible with a feature rich roadmap. rewards, airdrops, VIP passes, giveaways, holder priviledges and on-going activities. Ape Agents marks the beginning of decentralised Metadata."
 export const btnText1 = "Join Discord"
-export const btnText2 = "Mint Your Agent"
+export const btnText2 = "Mint Your Agent",
 
-export const topCard = {
+export const topCard = { 
   name: "Floor Price",
   price: "89 SOL",
   btnText: "Buy Now",
@@ -113,11 +112,8 @@ export const features = [
   {
     reversed: false,
     title: "Ape Agents: Join The Club",
-    description: `THE 1st COLLECTION with TNFT TECHNOLOGY. Highly Collectible & Rewarding.
-    AIRDROPS, CHALLENGES, BONUSES, UPGRADES, ON-GOING , GIVEAWAYS, HOLDER PRIVILAGES & MORE TO COME.
-    In the SPIRIT of WEB3 and DECENTRALISATION`,
-    image:
-      "/images/agentLogo.png",
+    description: "THE 1st COLLECTION with TNFT TECHNOLOGY. Highly Collectible & Rewarding AIRDROPS CHALLENGES BONUSES UPGRADES ON-GOING GIVEAWAYS HOLDER PRIVILAGES & MORE TO COME. In the SPIRIT of WEB3 and DECENTRALISATION',
+    image: "/images/agentLogo.png",
     imageAlt: "Ape Agent 000",
   },
   {
