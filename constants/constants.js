@@ -36,7 +36,7 @@ export const permissions = "2023 Ape Agents"
 
 // ---HERO TEXT---
 export const heading1 = "Ape Agents"
-export const heading2 = "The very first collection powered and sponsered by True NFT Technology"
+export const heading2 = "The very first collection powered and sponsored by True NFT Technology"
 export const description = "Highly collectible with a feature rich roadmap. rewards, airdrops, Vbest uIP passes, giveaways, holder priviledges and on-going activities. Ape Agents marks the beginning of decentralised Metadata."
 export const btnText1 = "Join Discord"
 export const btnText2 = "Mint Your Agent"
