@@ -98,7 +98,7 @@ const Hero = () => {
       <div className="container relative z-20 mx-auto grid grid-cols-1 gap-x-4 gap-y-20 py-16 lg:grid-cols-2">
         <div className="flex flex-col items-center justify-center text-center lg:items-start lg:text-left">
           <h1 className="mb-4 text-6xl font-bold xl:text-7xl">{heading1}</h1>
-          <h2 className="mb-12 text-4xl font-bold text-teal-400 underline decoration-indigo-400/30 xl:text-5xl">
+          <h2 className="mb-12 text-4xl font-medium text-teal-400 underline decoration-indigo-400/30 xl:text-5xl">
             {heading2}
           </h2>
 

@@ -5,14 +5,14 @@ module.exports = {
   // Add or Change domains here to add allowed websites for images
   // ↓
 
+  output: 'export',
   images: {
-    loader: "imgix",
-    path: "https://www.apeagentsofcreo.com",
+      unoptimized: true,
   domains: [
-      "www.apeagentsofcreo.com",
-      "lh3.googleusercontent.com",
-      "i.imgur.com",
-      "ouch-cdn2.icons8.com",
+      'www.apeagentsofcreo.com',
+      'lh3.googleusercontent.com',
+      'i.imgur.com',
+      'ouch-cdn2.icons8.com',
     ],
   },
 }
