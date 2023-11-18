@@ -6,7 +6,7 @@ module.exports = {
   // ↓
 
   images: {
-    unoptimized: true,
+    loader: "default",
   domains: [
       "www.apeagentsofcreo.com",
       "lh3.googleusercontent.com",
