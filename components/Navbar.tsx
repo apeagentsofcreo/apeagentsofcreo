@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react"
+
+
 import {
   logo,
   logoAlt,
@@ -8,6 +10,7 @@ import {
   openSeaUrl,
   pages,
   mobileMenuHeading,
+  
 } from "../constants/constants"
 import Image from "next/image"
 import Link from "next/link"
@@ -18,6 +21,7 @@ import {
   FaBars,
   FaTimes,
 } from "react-icons/fa"
+import { url } from "node:inspector"
 
 interface MediaProps {
   icon: React.ReactNode
@@ -89,10 +93,12 @@ const Navbar = () => {
 
   return (
     <>
+    
       <div className="fixed z-[100] flex w-full flex-col bg-gray-800/40 p-6 backdrop-blur-xl">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <Link href="/" passHref>
+
+            <Link href="../pages/stats">
               <a>
                 <div className="relative flex h-10 w-52 items-center">
                 <Image
@@ -117,8 +123,19 @@ const Navbar = () => {
               </div>
             </div>
           </div>
-
+          
+          
+            
           <div className="hidden items-center space-x-4 md:inline-flex">
+            <Link href="/rarity">
+            
+              <a>
+                <div className="rounded-2xl bg-gradient-to-r from-indigo-500 via-teal-600 to-indigo-500 bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100"> 
+                  View Rarity
+                </div>
+              </a>
+            </Link>
+  
             <MediaIcon
               icon={<FaDiscord size={28} />}
               link={discordUrl}

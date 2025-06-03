@@ -17,10 +17,11 @@ export const logo = '/images/agent150.png'
 export const logoAlt = 'ApeAgentsLogo'
 export const mobileMenuHeading = "Useful Links:"
 
-export const discordUrl = "https://discord.com/channels/951377318272700456/1064627646270550138"
+export const discordUrl = "#"
 export const instagramUrl = "#"
 export const twitterUrl = "https://twitter.com/ApeAgentsOfCreo"
 export const openSeaUrl = "https://mint.apeagentsofcreo.com"
+export const RanKing = "./_documents"
 
 // ---NAVBAR---
 export const pages = [
@@ -32,18 +33,18 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2023 Ape Agents"
+export const permissions = "2024 Ape Agents"
 
 // ---HERO TEXT---
 export const heading1 = "Ape Agents"
-export const heading2 = "The very first collection powered and sponsored by True NFT Technology"
-export const description = "Highly collectible with a feature rich roadmap. rewards, airdrops, Vbest uIP passes, giveaways, holder priviledges and on-going activities. Ape Agents marks the beginning of decentralised Metadata."
+export const heading2 = "The very first collection secured by Wiiicoin"
+export const description = "Ape Agents mark the beginning of Web3 and Wiiigle."
 export const btnText1 = "Join Discord"
-export const btnText2 = "Mint Your Agent"
+export const btnText2 = "Mint Your Agent - preview"
 
 export const topCard = { 
   name: "Floor Price",
-  price: "89 SOL",
+  price: "234 SOL",
   btnText: "Buy Now",
   profile:
     "/images/pic1.png",
@@ -112,14 +113,14 @@ export const features = [
   {
     reversed: false,
     title: "Ape Agents",
-    description: "Powered by True NFT Technology amd the Tnftcoin blockchain, Ape Agents are a milestone in NFT history. A Layer 1 solution for NFT metadata.",
+    description: "Powered by Wiiicoin. Marking a milestone in NFT history: A Layer 1 solution for NFT metadata.",
     image: "/images/agentLogo.png",
     imageAlt: "Ape Agent 000",
   },
   {
     reversed: true,
     title: "Public Mint",
-    description: "In addition to being a significant collection the Minting of Ape Agents will be a Hidden Mint. Buyers will reserve an Ape Agent which will not change however, only when the mint is complete will each Ape Agent be revealed to each buyer. Prior to the Mint, the Hash of the whole collection in Minting sequence will be made public. This allows verification that the Mint order did not change.",
+    description: "A totally transparent public mint.",
     image: "https://ouch-cdn2.icons8.com/v6BET7YrOgSq4VCaZKo2L6mVaGxu1oJ0aoH9NzGvKqk/rs:fit:1149:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTQw/LzVhYTljZWRhLTdm/ZjUtNDM1MC1hNjA0/LWU3OTc1NjZiYTJl/ZC5wbmc.png",
     imageAlt: "Public Mint Image"
   }
@@ -129,25 +130,25 @@ export const features = [
 export const roadmapHeading = "Roadmap"
 export const roadmapSteps = [
   {
-    position: "18th Nov 2023",
-    title: "Announcing Ape Agents",
-    description: "Ape Agents collection and True NFT Technolgy is now public community building begins",
-  },
-  {
-    position: "25th Nov 2023",
-    title: "Social Channels Activation",
-    description: "Join the Ape Agents social channels. Anyone and everyone invited.",
-  },
-  {
-    position: "14th Dec 2023",
-    title: "Minting Begins.",
-    description: "Ape Agents public mint starts.",
-  },
-  {
-    position: "TBA",
-    title: "Public Mint End - The Great Reveal",
-    description: "All Ape Agents are revealed in wallets.",
-  } 
+    position: "13th Nov 2024",
+    title: "Public Mint Opens",
+    description: "First Come First Served. Verifiably Fair - Ask Us How"
+  }
+  //{
+  //  position: "25th Nov 2023",
+  //  title: "Social Channels Activation",
+  //  description: "Join the Ape Agents social channels. Anyone and everyone invited.",
+  //},
+  //{
+  //  position: "14th Dec 2023",
+  //  title: "Minting Begins.",
+  // description: "Ape Agents public mint starts.",
+  //},
+  //{
+  //  position: "TBA",
+  //  title: "Public Mint End - The Great Reveal",
+  //  description: "All Ape Agents are revealed in wallets.",
+  //} 
 ]
 
 // ---TEAM---
@@ -186,7 +187,7 @@ export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
     question: "What's so unique about this collection?",
-    answer: "Ape Agents of Creo is the very first NFT collection that stores it metadata on the Tnftcoin Blockchain. This means the collection is a first of a kind and highly collectible.",
+    answer: "Ape Agents of Creo is the very first NFT collection that stores its metadata on the Wiiicoin Blockchain. This means the collection is a first of a kind and highly collectible.",
   },
   {
     question: "What else do I get for my money?",
@@ -197,3 +198,25 @@ export const faq = [
     answer: "Yes, Ape Agents will continue to evolve as an active collection with many developments both planned and yet to be decided.",    
   }
 ]
+
+export const backGround = "/images/Background.png"
+export const earPiece = "/images/Earpiece.png"
+export const earpiece = "/images/Earpiece.svg"
+export const Fur = "/images/Fur.svg"
+export const FuR = "/images/Fur.png"
+export const GlasseS = "/images/Glasses.png"
+export const Glasses = "/images/Glasses.svg"
+export const Hair = "/images/Hair.svg"
+export const HaiR = "/images/Hair.png"
+export const MoutH = "/images/Mouth.png"
+export const Mouth = "/images/Mouth.svg"
+export const Jacket = "/images/Jacket.svg"
+export const JackeT = "/images/Jacket.png"
+export const TiE = "/images/Tie.png"
+export const Tie = "/images/Tie.svg"
+
+export const faCe = "/images/face.png"
+export const face = "/images/face.svg"
+export const backGround1 = "/images/background1.svg"
+export const shirt = "/images/shirt.svg"
+export const sHirt = "/images/shirt.png"
