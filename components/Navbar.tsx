@@ -79,8 +79,19 @@ const MobileMenu = () => (
         <div className="w-fit rounded-2xl bg-gradient-to-r from-indigo-500 via-teal-600 to-indigo-500 bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
           Mint Your Agents
         </div>
-      </a>
-    </Link>
+        </a>
+        </Link>
+        
+        <Link href="/rarity" passHref>
+            
+              <a>
+                <div className="w-fit rounded-2xl bg-gradient-to-r from-indigo-500 via-teal-600 to-indigo-500 bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100"> 
+                  View Rarity
+                </div>
+              </a>
+            </Link>
+      
+    
   </div>
 )
 
@@ -98,7 +109,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
 
-            <Link href="../pages/stats">
+            <Link href="/" passHref>
               <a>
                 <div className="relative flex h-10 w-52 items-center">
                 <Image
@@ -126,7 +137,7 @@ const Navbar = () => {
           
           
             
-          <div className="hidden items-center space-x-4 md:inline-flex">
+          <div className="hidden items-center space-x-4 md:flex">
             <Link href="/rarity">
             
               <a>
