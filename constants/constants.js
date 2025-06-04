@@ -28,7 +28,7 @@ export const pages = [
   { name: "Gallery", id: "#gallery" },
   { name: "Features", id: "#features" },
   { name: "Roadmap", id: "#roadmap" },
-  //{ name: "Team", id: "#team" },
+  // { name: "Team", id: "#team" },
   { name: "FAQ", id: "#faq" },
 ]
 
