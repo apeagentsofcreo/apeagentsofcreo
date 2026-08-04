@@ -37,8 +37,8 @@ export const permissions = "2024 Ape Agents"
 
 // ---HERO TEXT---
 export const heading1 = "Ape Agents"
-export const heading2 = "The very first collection secured by Wiiicoin"
-export const description = "Ape Agents mark the beginning of Web3 and Wiiigle."
+export const heading2 = "The very first collection secured by RVACoin"
+export const description = "Ape Agents mark the beginning of Web3 on RVACoin."
 export const btnText1 = "Join Discord"
 export const btnText2 = "Mint Your Agent - preview"
 
@@ -113,7 +113,7 @@ export const features = [
   {
     reversed: false,
     title: "Ape Agents",
-    description: "Powered by Wiiicoin. Marking a milestone in NFT history: A Layer 1 solution for NFT metadata.",
+    description: "Powered by RVACoin. Marking a milestone in NFT history: A Layer 1 solution for NFT metadata.",
     image: "/images/agentLogo.png",
     imageAlt: "Ape Agent 000",
   },
@@ -187,7 +187,7 @@ export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
     question: "What's so unique about this collection?",
-    answer: "Ape Agents of Creo is the very first NFT collection that stores its metadata on the Wiiicoin Blockchain. This means the collection is a first of a kind and highly collectible.",
+    answer: "Ape Agents of Creo is the very first NFT collection that stores its metadata on the RVACoin blockchain. This makes the collection one of a kind and highly collectible.",
   },
   {
     question: "What else do I get for my money?",

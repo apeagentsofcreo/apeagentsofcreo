@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <NextSeo
         title="Ape Agents of Creo | Game Changing NFTs"
-        description="Ape Agents of Creo by True Nft Technologies"
+        description="Ape Agents of Creo, secured by the RVACoin blockchain"
         // canonical="https://www.canonical.ie/"
         // twitter={{
         //   handle: "@handle",
